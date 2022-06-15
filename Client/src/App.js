@@ -16,7 +16,7 @@ function App(homepage) {
       <br/><br/>
       <label> Unit Name:  </label>
       <input class = 'input' name="phone" type="text" placeholder="Unit Name" /> <br/>
-      <small class='small'> The unit name of asset </small> <br/><br/>'
+      <small class='small'> The unit name of assets </small> <br/><br/>'
       <label> Description: </label>
       <input className= 'in'  type="text" placeholder="Description" /> <br/>
       <small class='small'> description of this asset </small> <br/><br/>'
