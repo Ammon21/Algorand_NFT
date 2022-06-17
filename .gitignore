@@ -1,0 +1,4 @@
+/pycache
+pycache/
+flask_auth_app/project/__pycache__/
+flask_auth_app/auth/lib/
