@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Algorand-NFT/precache-manifest.c3138b216d4cef2902ff5c31842e63e7.js"
+  "/Algorand_NFT/precache-manifest.abeeb4a36e7d2e4ea312b054b0ef7369.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Algorand-NFT/index.html", {
+workbox.routing.registerNavigationRoute("/Algorand_NFT/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
