@@ -1,13 +1,13 @@
 {
-  "main.css": "/Algorand_NFT/static/css/main.90b9e7e0.chunk.css",
-  "main.js": "/Algorand_NFT/static/js/main.f58b60f8.chunk.js",
-  "main.js.map": "/Algorand_NFT/static/js/main.f58b60f8.chunk.js.map",
-  "static/js/1.ccfaed37.chunk.js": "/Algorand_NFT/static/js/1.ccfaed37.chunk.js",
-  "static/js/1.ccfaed37.chunk.js.map": "/Algorand_NFT/static/js/1.ccfaed37.chunk.js.map",
-  "runtime~main.js": "/Algorand_NFT/static/js/runtime~main.5e299576.js",
-  "runtime~main.js.map": "/Algorand_NFT/static/js/runtime~main.5e299576.js.map",
-  "static/css/main.90b9e7e0.chunk.css.map": "/Algorand_NFT/static/css/main.90b9e7e0.chunk.css.map",
-  "index.html": "/Algorand_NFT/index.html",
-  "precache-manifest.abeeb4a36e7d2e4ea312b054b0ef7369.js": "/Algorand_NFT/precache-manifest.abeeb4a36e7d2e4ea312b054b0ef7369.js",
-  "service-worker.js": "/Algorand_NFT/service-worker.js"
+  "main.css": "/Algorand_NFT/Client/react/static/css/main.90b9e7e0.chunk.css",
+  "main.js": "/Algorand_NFT/Client/react/static/js/main.f58b60f8.chunk.js",
+  "main.js.map": "/Algorand_NFT/Client/react/static/js/main.f58b60f8.chunk.js.map",
+  "static/js/1.ccfaed37.chunk.js": "/Algorand_NFT/Client/react/static/js/1.ccfaed37.chunk.js",
+  "static/js/1.ccfaed37.chunk.js.map": "/Algorand_NFT/Client/react/static/js/1.ccfaed37.chunk.js.map",
+  "runtime~main.js": "/Algorand_NFT/Client/react/static/js/runtime~main.2dcec8ac.js",
+  "runtime~main.js.map": "/Algorand_NFT/Client/react/static/js/runtime~main.2dcec8ac.js.map",
+  "static/css/main.90b9e7e0.chunk.css.map": "/Algorand_NFT/Client/react/static/css/main.90b9e7e0.chunk.css.map",
+  "index.html": "/Algorand_NFT/Client/react/index.html",
+  "precache-manifest.0bfd05550f7a98604589e7bbe33f9652.js": "/Algorand_NFT/Client/react/precache-manifest.0bfd05550f7a98604589e7bbe33f9652.js",
+  "service-worker.js": "/Algorand_NFT/Client/react/service-worker.js"
 }
