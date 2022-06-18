@@ -2,14 +2,23 @@ import homepage from './components/homepage.js';
 import v from './components/v'
 import './App.css';
 
+
 function App(homepage) {
   return (
     <div className='App-Header'>
+
+     <div class="topnav">
+     <a class="active" href="#home">10 Academy</a>
+     <a href="#news">Trainee</a>
+     <a href="#contact">Certificates</a>
+     <a href="#about">Wallet</a>
+      
+    </div>   
       
     <div className='App'>
       
-      <h3> WEB 3 Application </h3> 
-      
+      <h3> Algorand Certificates </h3> 
+      <form>
       <label> Full Name:  </label>
       <input class = 'input'  type="text" placeholder="Name"/> <br/>
       <small class='small'> Your full name please </small>
@@ -22,6 +31,7 @@ function App(homepage) {
       <small class='small'> description of this asset </small> <br/><br/>'
       <button id = 'button'> Generate Certificates </button>' <br/> <br/>
       <button id = 'button'> Show Extra </button>'
+      </form>
       </div>
       </div>
     

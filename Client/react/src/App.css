@@ -1,10 +1,12 @@
 
 .App {
   text-align: center;
-  background-color: whitesmoke;
+  background-color: #282c34;
   width: 100%;
+  color: whitesmoke;
   height: 100%;
 }
+
 
 
 button {
@@ -46,6 +48,33 @@ input {
 
   
   }
+
+  /* Add a black background color to the top navigation */
+.topnav {
+  background-color: #586b94;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 19px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  color: #282c34;
+}
 
 
 
