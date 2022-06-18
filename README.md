@@ -2,7 +2,7 @@
  
 ##### DEMO for the webapp by react powered by flask -  https://ammon21.github.io/Algorand_NFT/
 
-![Screenshot](Screenshot from 2022-06-18 12-21-32.png)
+![screenshot](screenshot.png)
 
 ## Introduction to web3
 
