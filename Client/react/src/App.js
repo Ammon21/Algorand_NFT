@@ -1,9 +1,7 @@
-import homepage from './components/homepage.js';
-import v from './components/v'
 import './App.css';
+import React from 'react';
 
-
-function App(homepage) {
+function App() {
   return (
     <div className='App-Header'>
 
