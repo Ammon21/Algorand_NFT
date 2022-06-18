@@ -4,4 +4,29 @@
 <h1 class="title">
   Welcome {{name}} !
 </h1>
+<form method="post">
+  <label for="title">Name: </label>
+  <br>
+  <input type="text" name="title"
+         placeholder="Name"
+         value="{{ request.form['title'] }}"></input>
+  <br>
+
+  <label for="title">Unit Name: </label>
+  <br>
+  <input type="text" name="title"
+         placeholder="Unit name"
+         value="{{ request.form['title'] }}"></input>
+  <br>
+
+  <label for="content">Descripiton</label>
+  <br>
+  <textarea name="content"
+            placeholder="Message content"
+            rows="15"
+            cols="40"
+            >{{ request.form['content'] }}</textarea>
+  <br>
+  <button type="submit">Submit</button>
+</form>
 {% endblock %}
