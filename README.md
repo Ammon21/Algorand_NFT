@@ -2,6 +2,9 @@
  
 ##### DEMO for the webapp by react powered by flask -  https://ammon21.github.io/Algorand_NFT/
 
+
+![screenshot] (/home/ammon/Pictures/Screenshots/Screenshot from 2022-06-18 12-21-32.png) 
+
 ## Introduction to web3
 
 Web3 is a future, decentralized phase of internet development, where users become owners. 
